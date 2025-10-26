@@ -1,0 +1,100 @@
+2025-08-15 01:19:03.763   2.9.9.8   I   2   LifeCycle   进程：com.jideos.jnotes.overseas.google onCreate
+2025-08-15 01:19:03.823   2.9.9.8   I   2   MMkvSPUtils   mmkv init
+2025-08-15 01:19:03.936   2.9.9.8   I   2   MMkvSPUtils   user_info:false
+2025-08-15 01:19:03.937   2.9.9.8   I   2   MMkvSPUtils   IS_FIRST_PRIVACY:true
+2025-08-15 01:19:03.939   2.9.9.8   I   2   MMkvSPUtils   userToken:false
+2025-08-15 01:19:06.866   2.9.9.8   I   2   PDF   pdf初始化成功version：9.0.0.1127
+2025-08-15 01:19:06.885   2.9.9.8   I   2   StorageUtils   getReflectRootInPath：kotlin.Unit
+2025-08-15 01:19:06.886   2.9.9.8   I   2   StorageUtils   反射获取失败，走遍历查询
+2025-08-15 01:19:06.891   2.9.9.8   I   2   StorageUtils   getExternalFilesDirs：/storage/emulated/0/Android/data/com.jideos.jnotes.overseas.google/files
+2025-08-15 01:19:07.916   2.9.9.8   I   11323   DirtyStrokeHandler   Thread:11323未导入完笔记处理完
+2025-08-15 01:19:07.932   2.9.9.8   I   11324   DirtyStrokeHandler   Thread:11324,脏笔记数量：0
+2025-08-15 01:19:07.936   2.9.9.8   I   11324   DirtyStrokeHandler   Thread:11324脏笔记处理完
+2025-08-15 01:19:08.354   2.9.9.8   I   2   LifeCycle   level=5, 进程前台或可见，正常运行，但内存有些吃紧。
+2025-08-15 01:19:08.363   2.9.9.8   I   2   LifeCycle   level=10, 进程前台或可见，正常运行，但内存比较吃紧
+2025-08-15 01:19:08.364   2.9.9.8   I   2   LifeCycle   level=15, 进程前台或可见，但内存十分吃紧
+2025-08-15 01:19:08.365   2.9.9.8   I   2   LifeCycle   level=10, 进程前台或可见，正常运行，但内存比较吃紧
+2025-08-15 01:19:08.413   2.9.9.8   I   2   LifeCycle   level=10, 进程前台或可见，正常运行，但内存比较吃紧
+2025-08-15 01:19:08.580   2.9.9.8   I   2   LifeCycle   level=60, 该程序位于LRU缓存列表的中间位置，应该多释放一些内存提高运行效率
+2025-08-15 01:19:10.158   2.9.9.8   I   2   LifeCycle   level=80, 该程序位于LRU缓存列表的最边缘位置，系统会先杀掉该进程
+2025-08-15 01:19:10.400   2.9.9.8   I   2   LifeCycle   level=80, 该程序位于LRU缓存列表的最边缘位置，系统会先杀掉该进程
+2025-08-15 01:19:10.442   2.9.9.8   I   2   LifeCycle   level=80, 该程序位于LRU缓存列表的最边缘位置，系统会先杀掉该进程
+2025-08-15 01:19:10.744   2.9.9.8   I   2   LifeCycle   level=80, 该程序位于LRU缓存列表的最边缘位置，系统会先杀掉该进程
+2025-08-15 01:19:10.933   2.9.9.8   I   2   LifeCycle   level=80, 该程序位于LRU缓存列表的最边缘位置，系统会先杀掉该进程
+2025-08-15 01:19:11.033   2.9.9.8   I   2   LifeCycle   level=80, 该程序位于LRU缓存列表的最边缘位置，系统会先杀掉该进程
+2025-08-15 01:19:11.450   2.9.9.8   I   2   LifeCycle   level=80, 该程序位于LRU缓存列表的最边缘位置，系统会先杀掉该进程
+2025-08-15 01:19:12.794   2.9.9.8   I   2   LifeCycle   level=80, 该程序位于LRU缓存列表的最边缘位置，系统会先杀掉该进程
+2025-08-15 01:19:13.967   2.9.9.8   I   2   LifeCycle   level=80, 该程序位于LRU缓存列表的最边缘位置，系统会先杀掉该进程
+2025-08-15 01:19:36.354   2.9.9.8   I   2   LifeCycle   进程：com.jideos.jnotes.overseas.google onCreate
+2025-08-15 01:19:36.712   2.9.9.8   I   2   MMkvSPUtils   mmkv init
+2025-08-15 01:19:37.151   2.9.9.8   I   2   MMkvSPUtils   user_info:false
+2025-08-15 01:19:37.153   2.9.9.8   I   2   MMkvSPUtils   IS_FIRST_PRIVACY:true
+2025-08-15 01:19:37.155   2.9.9.8   I   2   MMkvSPUtils   userToken:false
+2025-08-15 01:19:43.946   2.9.9.8   I   2   PDF   pdf初始化成功version：9.0.0.1127
+2025-08-15 01:19:43.965   2.9.9.8   I   2   StorageUtils   getReflectRootInPath：kotlin.Unit
+2025-08-15 01:19:43.966   2.9.9.8   I   2   StorageUtils   反射获取失败，走遍历查询
+2025-08-15 01:19:43.982   2.9.9.8   I   2   StorageUtils   getExternalFilesDirs：/storage/emulated/0/Android/data/com.jideos.jnotes.overseas.google/files
+2025-08-15 01:19:44.797   2.9.9.8   I   11480   DirtyStrokeHandler   Thread:11480,脏笔记数量：0
+2025-08-15 01:19:44.799   2.9.9.8   I   11480   DirtyStrokeHandler   Thread:11480脏笔记处理完
+2025-08-15 01:19:44.800   2.9.9.8   I   11478   DirtyStrokeHandler   Thread:11478未导入完笔记处理完
+2025-08-15 01:19:45.027   2.9.9.8   I   2   LifeCycle   level=5, 进程前台或可见，正常运行，但内存有些吃紧。
+2025-08-15 01:19:45.046   2.9.9.8   I   2   LifeCycle   level=60, 该程序位于LRU缓存列表的中间位置，应该多释放一些内存提高运行效率
+2025-08-15 02:43:49.062   2.9.9.8   I   2   LifeCycle   进程：com.jideos.jnotes.overseas.google onCreate
+2025-08-15 02:43:49.134   2.9.9.8   I   2   MMkvSPUtils   mmkv init
+2025-08-15 02:43:49.247   2.9.9.8   I   2   MMkvSPUtils   user_info:false
+2025-08-15 02:43:49.248   2.9.9.8   I   2   MMkvSPUtils   IS_FIRST_PRIVACY:true
+2025-08-15 02:43:49.249   2.9.9.8   I   2   MMkvSPUtils   userToken:false
+2025-08-15 02:43:52.117   2.9.9.8   I   2   PDF   pdf初始化成功version：9.0.0.1127
+2025-08-15 02:43:52.129   2.9.9.8   I   2   StorageUtils   getReflectRootInPath：kotlin.Unit
+2025-08-15 02:43:52.130   2.9.9.8   I   2   StorageUtils   反射获取失败，走遍历查询
+2025-08-15 02:43:52.138   2.9.9.8   I   2   StorageUtils   getExternalFilesDirs：/storage/emulated/0/Android/data/com.jideos.jnotes.overseas.google/files
+2025-08-15 02:43:52.787   2.9.9.8   I   13161   DirtyStrokeHandler   Thread:13161未导入完笔记处理完
+2025-08-15 02:43:52.788   2.9.9.8   I   13162   DirtyStrokeHandler   Thread:13162,脏笔记数量：0
+2025-08-15 02:43:52.789   2.9.9.8   I   13162   DirtyStrokeHandler   Thread:13162脏笔记处理完
+2025-08-15 02:43:53.050   2.9.9.8   I   2   LifeCycle   level=10, 进程前台或可见，正常运行，但内存比较吃紧
+2025-08-15 02:43:53.068   2.9.9.8   I   2   LifeCycle   level=60, 该程序位于LRU缓存列表的中间位置，应该多释放一些内存提高运行效率
+2025-08-15 02:43:59.934   2.9.9.8   I   2   LifeCycle   进程：com.jideos.jnotes.overseas.google onCreate
+2025-08-15 02:43:59.994   2.9.9.8   I   2   MMkvSPUtils   mmkv init
+2025-08-15 02:44:00.110   2.9.9.8   I   2   MMkvSPUtils   user_info:false
+2025-08-15 02:44:00.111   2.9.9.8   I   2   MMkvSPUtils   IS_FIRST_PRIVACY:true
+2025-08-15 02:44:00.112   2.9.9.8   I   2   MMkvSPUtils   userToken:false
+2025-08-15 02:44:02.060   2.9.9.8   I   2   PDF   pdf初始化成功version：9.0.0.1127
+2025-08-15 02:44:02.075   2.9.9.8   I   2   StorageUtils   getReflectRootInPath：kotlin.Unit
+2025-08-15 02:44:02.078   2.9.9.8   I   2   StorageUtils   反射获取失败，走遍历查询
+2025-08-15 02:44:02.086   2.9.9.8   I   2   StorageUtils   getExternalFilesDirs：/storage/emulated/0/Android/data/com.jideos.jnotes.overseas.google/files
+2025-08-15 02:44:02.849   2.9.9.8   I   13174   DirtyStrokeHandler   Thread:13174未导入完笔记处理完
+2025-08-15 02:44:02.848   2.9.9.8   I   13172   DirtyStrokeHandler   Thread:13172,脏笔记数量：0
+2025-08-15 02:44:02.849   2.9.9.8   I   13172   DirtyStrokeHandler   Thread:13172脏笔记处理完
+2025-08-15 02:44:03.082   2.9.9.8   I   2   LifeCycle   level=10, 进程前台或可见，正常运行，但内存比较吃紧
+2025-08-15 02:44:03.100   2.9.9.8   I   2   LifeCycle   level=80, 该程序位于LRU缓存列表的最边缘位置，系统会先杀掉该进程
+2025-08-15 02:44:09.408   2.9.9.8   I   2   LifeCycle   进程：com.jideos.jnotes.overseas.google onCreate
+2025-08-15 02:44:09.466   2.9.9.8   I   2   MMkvSPUtils   mmkv init
+2025-08-15 02:44:09.571   2.9.9.8   I   2   MMkvSPUtils   user_info:false
+2025-08-15 02:44:09.572   2.9.9.8   I   2   MMkvSPUtils   IS_FIRST_PRIVACY:true
+2025-08-15 02:44:09.574   2.9.9.8   I   2   MMkvSPUtils   userToken:false
+2025-08-15 02:44:10.808   2.9.9.8   I   2   PDF   pdf初始化成功version：9.0.0.1127
+2025-08-15 02:44:10.823   2.9.9.8   I   2   StorageUtils   getReflectRootInPath：kotlin.Unit
+2025-08-15 02:44:10.824   2.9.9.8   I   2   StorageUtils   反射获取失败，走遍历查询
+2025-08-15 02:44:10.828   2.9.9.8   I   2   StorageUtils   getExternalFilesDirs：/storage/emulated/0/Android/data/com.jideos.jnotes.overseas.google/files
+2025-08-15 02:44:11.402   2.9.9.8   I   13178   DirtyStrokeHandler   Thread:13178未导入完笔记处理完
+2025-08-15 02:44:11.402   2.9.9.8   I   13177   DirtyStrokeHandler   Thread:13177,脏笔记数量：0
+2025-08-15 02:44:11.403   2.9.9.8   I   13177   DirtyStrokeHandler   Thread:13177脏笔记处理完
+2025-08-15 02:44:11.583   2.9.9.8   I   2   LifeCycle   level=10, 进程前台或可见，正常运行，但内存比较吃紧
+2025-08-15 02:44:11.608   2.9.9.8   I   2   LifeCycle   level=60, 该程序位于LRU缓存列表的中间位置，应该多释放一些内存提高运行效率
+2025-08-15 02:44:15.204   2.9.9.8   I   2   LifeCycle   level=60, 该程序位于LRU缓存列表的中间位置，应该多释放一些内存提高运行效率
+2025-08-15 19:46:30.805   2.9.9.8   I   2   LifeCycle   进程：com.jideos.jnotes.overseas.google onCreate
+2025-08-15 19:46:30.868   2.9.9.8   I   2   MMkvSPUtils   mmkv init
+2025-08-15 19:46:30.948   2.9.9.8   I   2   MMkvSPUtils   user_info:false
+2025-08-15 19:46:30.949   2.9.9.8   I   2   MMkvSPUtils   IS_FIRST_PRIVACY:true
+2025-08-15 19:46:30.949   2.9.9.8   I   2   MMkvSPUtils   userToken:false
+2025-08-15 19:46:40.986   2.9.9.8   I   2   PDF   pdf初始化成功version：9.0.0.1127
+2025-08-15 19:46:40.998   2.9.9.8   I   2   StorageUtils   getReflectRootInPath：kotlin.Unit
+2025-08-15 19:46:40.998   2.9.9.8   I   2   StorageUtils   反射获取失败，走遍历查询
+2025-08-15 19:46:41.006   2.9.9.8   I   2   StorageUtils   getExternalFilesDirs：/storage/emulated/0/Android/data/com.jideos.jnotes.overseas.google/files
+2025-08-15 19:46:41.634   2.9.9.8   I   17566   DirtyStrokeHandler   Thread:17566未导入完笔记处理完
+2025-08-15 19:46:41.634   2.9.9.8   I   17568   DirtyStrokeHandler   Thread:17568,脏笔记数量：0
+2025-08-15 19:46:41.635   2.9.9.8   I   17568   DirtyStrokeHandler   Thread:17568脏笔记处理完
+2025-08-15 19:46:41.789   2.9.9.8   I   2   LifeCycle   level=10, 进程前台或可见，正常运行，但内存比较吃紧
+2025-08-15 19:46:41.790   2.9.9.8   I   2   LifeCycle   level=10, 进程前台或可见，正常运行，但内存比较吃紧
+2025-08-15 19:46:41.810   2.9.9.8   I   2   LifeCycle   level=15, 进程前台或可见，但内存十分吃紧
+2025-08-15 19:46:41.973   2.9.9.8   I   2   LifeCycle   level=80, 该程序位于LRU缓存列表的最边缘位置，系统会先杀掉该进程
